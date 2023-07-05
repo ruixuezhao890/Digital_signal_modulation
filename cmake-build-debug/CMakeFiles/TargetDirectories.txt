@@ -1,0 +1,3 @@
+D:/CODE/stm32/WirelessTransceiver/cmake-build-debug/CMakeFiles/templateDevelopment.elf.dir
+D:/CODE/stm32/WirelessTransceiver/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODE/stm32/WirelessTransceiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

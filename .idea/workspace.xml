@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="templateDevelopment" targetName="templateDevelopment.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f0b67ca-8499-459d-b701-c08b56527ea9" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/myApplcation/MyADC_cpp.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/myApplcation/MyDAC.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/myApplcation/MySchedule.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/myApplcation/MyUsart.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/myApplcation/Mymain.cpp" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2Owkm94WdtyNSuk1DD3jV55kAGm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CODE/stm32/templateDevelopment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD templateDevelopment">
+    <configuration name="templateDevelopment.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="templateDevelopment" TARGET_NAME="templateDevelopment.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="templateDevelopment" RUN_TARGET_NAME="templateDevelopment.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.templateDevelopment.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD templateDevelopment" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <created>1682479188602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682479188602</updated>
+      <workItem from="1682479209691" duration="13078000" />
+      <workItem from="1682576896096" duration="8882000" />
+      <workItem from="1682611053798" duration="3470000" />
+      <workItem from="1682644806909" duration="8594000" />
+      <workItem from="1682691217369" duration="5712000" />
+      <workItem from="1682730042475" duration="12471000" />
+      <workItem from="1682783532927" duration="51000" />
+      <workItem from="1683207718382" duration="6656000" />
+      <workItem from="1683276288192" duration="7005000" />
+      <workItem from="1683290192459" duration="13973000" />
+      <workItem from="1683348081650" duration="8216000" />
+      <workItem from="1683391208740" duration="2660000" />
+      <workItem from="1683393897362" duration="393000" />
+      <workItem from="1683428439154" duration="929000" />
+      <workItem from="1683429487800" duration="102000" />
+      <workItem from="1683473402474" duration="1459000" />
+      <workItem from="1683639149813" duration="1615000" />
+      <workItem from="1683641587750" duration="629000" />
+      <workItem from="1683647305545" duration="145000" />
+      <workItem from="1683648320702" duration="711000" />
+      <workItem from="1683980067758" duration="43000" />
+      <workItem from="1683980236603" duration="713000" />
+      <workItem from="1684155008920" duration="407000" />
+      <workItem from="1684155443674" duration="782000" />
+      <workItem from="1684221088671" duration="494000" />
+      <workItem from="1685085054036" duration="2696000" />
+      <workItem from="1685148362105" duration="2475000" />
+      <workItem from="1685151009724" duration="1105000" />
+      <workItem from="1685203741797" duration="585000" />
+      <workItem from="1685242435875" duration="8670000" />
+      <workItem from="1685273685001" duration="3497000" />
+      <workItem from="1685277784670" duration="1157000" />
+      <workItem from="1688127122013" duration="7234000" />
+      <workItem from="1688200538404" duration="38000" />
+      <workItem from="1688218187057" duration="1247000" />
+      <workItem from="1688259011730" duration="31216000" />
+      <workItem from="1688344234406" duration="140000" />
+      <workItem from="1688350760667" duration="540000" />
+      <workItem from="1688352662651" duration="5612000" />
+      <workItem from="1688364334733" duration="1864000" />
+      <workItem from="1688366462514" duration="748000" />
+      <workItem from="1688377391035" duration="259000" />
+      <workItem from="1688386540569" duration="1056000" />
+      <workItem from="1688435969573" duration="2088000" />
+      <workItem from="1688457924026" duration="1199000" />
+      <workItem from="1688472465172" duration="68000" />
+      <workItem from="1688483721332" duration="1733000" />
+      <workItem from="1688486054799" duration="241000" />
+      <workItem from="1688486659470" duration="999000" />
+      <workItem from="1688558652084" duration="90000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改了cubemx生成的文件错误 之前的adc出现问题">
+      <created>1683962988042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683962988042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改了cubemx生成的文件错误 之前的adc出现问题">
+      <created>1683963024621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683963024621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改了FFT的BUG">
+      <created>1683979799451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683979799451</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加了WIFI模块更改了adc的错误">
+      <created>1684155102452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684155102452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加了WIFI模块更改了adc的错误增添了USART的函数">
+      <created>1684155547465</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684155547465</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新任务调度器">
+      <created>1685245317624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685245317624</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="修改了cubemx生成的文件错误 之前的adc出现问题" />
+    <MESSAGE value="修改了FFT的BUG" />
+    <MESSAGE value="增加了WIFI模块更改了adc的错误" />
+    <MESSAGE value="增加了WIFI模块更改了adc的错误增添了USART的函数" />
+    <MESSAGE value="更新任务调度器" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新任务调度器" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/myApplcation/Digital_signal_modulation.cpp</url>
+          <line>118</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="wifiStack[1]" language="ObjectiveC" />
+        <watch expression="adcNum" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
